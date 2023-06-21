@@ -5,9 +5,6 @@ guildline to use:</br>
 
 `git clone https://github.com/Nikshayverma/basic-login-system-with-dictionary `</br>
 `cd basic-login-system-with-dictionary `</br>
-`pip install -r requirements.txt`</br>
-
-i have commented out the exit command , you can uncomment it and it will work just fine.. 
 
 this program can create update and remove login ids and password using basic dictionary in python.
 
